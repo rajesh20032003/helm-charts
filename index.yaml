@@ -3,12 +3,12 @@ entries:
   micro-dash:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-24T16:51:23.786305319Z"
+    created: "2026-04-24T16:57:32.276750023Z"
     description: Microservices dashboard with zero trust networking
     digest: 0c34909f757986da478d753146d713e7eef2ad39d53cfd80dc564f9aa5492e70
     name: micro-dash
     type: application
     urls:
-    - https://github.com/rajesh20032003/helm-charts/micro-dash-0.2.0.tgz
+    - https://rajesh20032003.github.io/helm-charts/micro-dash-0.2.0.tgz
     version: 0.2.0
-generated: "2026-04-24T16:51:23.774512941Z"
+generated: "2026-04-24T16:57:32.268783184Z"
